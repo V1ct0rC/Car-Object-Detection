@@ -1,0 +1,7 @@
+names:
+- car
+nc: 1
+train: "/content/drive/MyDrive/Introduc\u0327a\u0303o a\u0300 Aprendizagem Profunda/CNN/Car\
+  \ Object Detection/data/train"
+val: "/content/drive/MyDrive/Introduc\u0327a\u0303o a\u0300 Aprendizagem Profunda/CNN/Car\
+  \ Object Detection/data/valid"
